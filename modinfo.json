@@ -149,7 +149,7 @@
     "author": "ShibaGT",
     "version": "v11.0",
     "git_path": "filesfor/ShibaGT",
-    "group": "Illegal Mod Menus",
+    "group": "Illegal Mods",
     "download_url": "https://github.com/filesfor/ShibaGT/releases/download/latest/Mod.zip"
   },
   {
@@ -181,7 +181,7 @@
     "author": "CupidGT",
     "version": "1.0.1",
     "git_path": "filesfor/AnyCodeOfConduct",
-    "group": "ShibaGT",
+    "group": "Cosmetic",
     "download_url": "https://github.com/filesfor/AnyCodeOfConduct/releases/download/v1.0.1/AnyCodeOfConduct.zip"
   },
 ]
